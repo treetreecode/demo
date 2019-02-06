@@ -8,11 +8,11 @@
 ## 基本工具
 
 - vscode：简单但强大的ide
-- git：版本管理工具
+- git：版本管理工具 **需要学习**
 - github：代码托管与协作平台
 
 
 ## 语言选择
 
-- python
+- python **需要学习和联系**
 - javascript
